@@ -34,8 +34,8 @@ You can try this project in [colab](https://colab.research.google.com/github/mym
 
 ### virtualenv
 ``` bash
-git clone git@github.com:mymusise/gpt2-quickly.git
-cd gpt2-quickly
+git clone git@github.com:kingglory/gpt2-of-yourself.git
+cd gpt2-of-yourself
 python3 -m venv venv
 source venv/bin/activate
 
